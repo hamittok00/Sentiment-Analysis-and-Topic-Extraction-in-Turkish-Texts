@@ -132,7 +132,7 @@ Bu proje, Türkçe metinleri analiz ederek duygu ve konu çıkarımları yaparak
 - **A Comprehensive Analysis of Static Word Embeddings for Turkish** (Sarıtaş ve diğ. 2023)
 
 
-## 👩🏻‍💻Proje Kodları (Project Codes)
+## 👨🏻‍💻Proje Kodları (Project Codes)
 
  0. Proje Detayları (Project Details) -> [`NLP-PROJECT.docx`](https://github.com/elifbeyzatok00/Natural-Language-Processing/blob/main/0-NLP-PROJECT.docx)
 
